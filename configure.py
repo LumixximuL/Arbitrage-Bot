@@ -2,18 +2,18 @@
 #Taylor Webber
 
 #BTC-e API settings
-btc_e_key = 'RA8R89VV-R6LDRBE0-55SESGGW-0E5ZETN6-LINBVRKG'
-btc_e_secret = 'db0bfd8984d543195d6f773a539c01712eab44cc961c1a09326f39f1323e0574'
+btc_e_key = 'BTC-e PUBLIC KEY'
+btc_e_secret = 'BTC-e PRIVATE KEY'
 btc_e_fee = 0.002
 
 #Bitstamp API settings
-bitstamp_key = 'My Key'
-bitstamp_secret = 'My Key'
+bitstamp_key = 'BITSTAMP PUBLIC KEY'
+bitstamp_secret = 'BITSTAMP PRIVATE KEY'
 bitstamp_fee = 0.005
 
 #Bitfinex API settings
-bitfinex_key = 'NiKvCG8AgjOsVMcfhex3yGBfEHGPjoMra3lMzLULfaf'
-bitfinex_secret = '0mNXzblne9zS16XlzIAa8P8vXZJ68oSozrU87zm2A4i'
+bitfinex_key = 'BITFINEX PUBLIC KEY'
+bitfinex_secret = 'BITFINEX PRIVATE KEY'
 bitfinex_fee = 0.005
 
 
