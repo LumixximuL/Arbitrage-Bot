@@ -1,0 +1,14 @@
+					BTC-USD Arbitrage Bot log
+
+
+			          Buy Info		  Sell Info
+Date:		 Time:	     Exchange: Amount($):    Exchange: Amount($):   Profit(%):       Profit($):
+
+Tue, 16 Dec 2014 18:10:42    BTC-e     32.064        Bitfinex  32.23999     0.545874859142   0.17599
+Tue, 16 Dec 2014 18:11:05    BTC-e     32.0243208    Bitfinex  32.30964     0.883077620178   0.2853192
+Tue, 16 Dec 2014 18:51:06    BTC-e     32.3646       Bitfinex  32.68575     0.982538262087   0.32115
+Tue, 16 Dec 2014 18:58:22    BTC-e     32.5403508    Bitfinex  33.019075    1.44984134171    0.4787242
+Tue, 16 Dec 2014 18:59:18    BTC-e     32.4705114    Bitfinex  33.023055    1.67320558319    0.5525436
+Tue, 16 Dec 2014 18:59:47    BTC-e     32.4704112    Bitfinex  33.01012     1.63497981831    0.5397088
+Mon, 22 Dec 2014 12:24:54    BTC-e     32.962794     Bitfinex  33.23101     0.807125633557   0.268216
+Mon, 22 Dec 2014 12:26:41    BTC-e     33.0655992    Bitfinex  33.232005    0.500739573192   0.1664058
